@@ -1,0 +1,2 @@
+unitig_16	maker	gene	1	50	.	+	.	ID=Pcoatneyi_00005233;Name=Pcoatneyi_00005233;Alias=maker-unitig_16-exonerate_protein2genome-gene-1.1;Dbxref=Coils:Coil;
+unitig_16	maker	gene	60	80	.	+	.	ID=Pcoatneyi_00005235;Name=Pcoatneyi_00005235;Alias=maker-unitig_16-exonerate_protein2genome-gene-1.2;Dbxref=Gene3D:G3DSA:3.30.1320.10,InterPro:IPR000307,InterPro:IPR023803,Pfam:PF00886,SUPERFAMILY:SSF54565;Ontology_term=GO:0003735,GO:0005622,GO:0005840,GO:0006412;
